@@ -1,0 +1,128 @@
+[
+    {
+        "nombre": "Saco Azul Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 60000,
+        "categoria":"Saco",
+        "stock": 10,
+        "img": "saco-azul.jpg"
+    },
+    {
+        "nombre": "Saco Gris Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 55000,
+        "categoria":"Saco",
+        "stock": 8,
+        "img": "saco-gris.jpg"
+    },
+    {
+        "nombre": "Saco Marrón Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 57000,
+        "categoria":"Saco",
+        "stock": 15,
+        "img": "saco-marrón.jpg"
+    },
+    {
+        "nombre": "Traje Azul Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 88000,
+        "categoria":"Traje",
+        "stock": 3,
+        "img": "traje-azul.jpg"
+    },
+    {
+        "nombre": "Traje Gris Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 83000,
+        "categoria": "Traje",
+        "stock": 2,
+        "img": "traje-gris.jpg"
+    },
+    {
+        "nombre": "Traje Marrón Liso",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 85000,
+        "categoria":"Traje",
+        "stock": 5,
+        "img": "traje-marrón.jpg"
+    },
+    {
+        "nombre": "Saco Azul y Pantalon Beige",
+        "marca": "Javer",
+        "modelo": "Recto",
+        "precio": 40000,
+        "categoria":"Conjunto combinado",
+        "stock": 2,
+        "img": "combinado-azulybeige.jpg"
+    },
+    {
+        "nombre": "Saco Azul y Pantalon Gris",
+        "marca": "Javer",
+        "modelo": "Recto",
+        "precio": 45000,
+        "categoria":"Conjunto combinado",
+        "stock": 1,
+        "img": "combinado-azulygris.jpg"
+    },
+    {
+        "nombre": "Saco Beige y Pantalon Azul",
+        "marca": "Javer",
+        "modelo": "Recto",
+        "precio": 39000,
+        "categoria":"Conjunto combinado",
+        "stock": 3,
+        "img": "combinado-beigeyazul.jpg"
+    },
+    {
+        "nombre": "Saco Negro y Pantalon Gris",
+        "marca": "Javer",
+        "modelo": "Recto",
+        "precio": 50000,
+        "categoria":"Conjunto combinado",
+        "stock": 6,
+        "img": "combinado-negroygris.jpg"
+    },
+    {
+        "nombre": "Saco Verde Irlandes",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 35000,
+        "categoria": "Color y Cuadrille",
+        "stock": 2,
+        "img": "verde.png"
+    },
+    {
+        "nombre": "Saco Azul Claro",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 45000,
+        "categoria": "Color y Cuadrille",
+        "stock": 2,
+        "img": "azul.png"
+    },
+    {
+        "nombre": "Saco Azul Cuadrille",
+        "marca": "Javer",
+        "modelo": "Recto",
+        "precio": 52000,
+        "categoria": "Color y Cuadrille",
+        "stock": 3,
+        "img": "azulcuadrille.png"
+    },
+    {
+        "nombre": "Saco Azul Oscuro",
+        "marca": "Javer",
+        "modelo": "Slim Fit",
+        "precio": 50000,
+        "categoria": "Color y Cuadrille",
+        "stock": 1,
+        "img": "azuloscuro.png"
+    }
+]

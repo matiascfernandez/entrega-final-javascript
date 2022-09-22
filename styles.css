@@ -1,0 +1,110 @@
+.titulo {
+    color: rgb(63, 35, 63);
+    text-align: center;
+    margin: 2rem;
+    align-items: center;
+    justify-content: center;
+    margin: 5rem;
+}
+
+.section1{
+    width: 100%;
+    
+}
+
+.section1__img{
+    width: 100%;
+}
+
+.botones{
+    width: 100%;
+    text-align: center;
+}
+
+.mostrar_producto{
+        background-color: rgb(63, 35, 63);
+        color: aliceblue;
+        text-align: center;
+        margin: 4rem;
+        align-items: center;
+        justify-content: center;
+}
+
+.buscar_producto{
+   
+    margin: 2rem;
+
+}
+
+.row{
+    justify-content: center;
+    width: 100%;
+    flex-direction: row;
+}
+
+body {
+    width: 100%;
+    background-color: #9a8c98;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btnCarrito {
+    background-color: rgb(63, 35, 63);
+    color: aliceblue;
+    margin: 4rem;
+}
+
+.card {
+    background-color: rgb(63, 35, 63);
+    color: aliceblue;
+    width: 18rem;
+    margin: 4px;
+    padding: 2em;
+
+}
+
+
+.botonesProducto{
+    background-color: rgb(63, 35, 63);
+    color: aliceblue;
+    margin: 2rem;
+
+}
+
+.container{
+    width: 100%;
+    background-color: rgb(63, 35, 63);
+    color: aliceblue;
+}
+
+.titulo_form{
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+    margin: 2rem;
+    padding: 1em;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form-label{
+    width: 100%;
+    color: aliceblue;
+    padding: 1em;
+}
+
+.crear_usuario{
+    background-color: aliceblue;
+    color: rgb(63, 35, 63);
+    margin: 2rem;
+}
+
+.mostrar_usuario {
+    background-color: rgb(63, 35, 63);
+    color: aliceblue;
+    text-align: center;
+    margin: 2rem;
+    align-items: center;
+    justify-content: center;
+}
